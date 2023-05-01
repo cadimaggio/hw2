@@ -50,6 +50,7 @@ CREATE TABLE movies (
   studio_id INTEGER
 );
 
+
 CREATE TABLE actors (
   id INTEGER PRIMARY KEY AUTOINCREMENT,
   name TEXT
